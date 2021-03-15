@@ -2,6 +2,6 @@
 
 int main(){
 
-	cout << "Hola";
+	cout << "Hola nuevo programa";
 	return 0;
 }
